@@ -1,41 +1,29 @@
+# About this project:
 
-***
+This Library Management System is a software application designed to efficiently manage the operations of a library. It aims to streamline various library processes, including book cataloging, circulation, member management, and inventory control. By automating these tasks, this project enhances the overall efficiency and user experience within the library.
 
-# Welcome to The library managment system's repository!
+## Main features:
 
-***
+- Automate Library Processes: Digitize manual tasks such as book borrowing, returning, and renewals.
+- Improve Efficiency: Reduce manual paperwork and human errors.
+- Enhance User Experience: Provide easy access to library resources and information.
+- Maintaining Records: Keep records of books, members, and transactions.
 
-## Some info about us:
+### Book Management:
 
-### The projects hooked with this specific repository are developer-friendly and consist of prototype projects. This is just a start-up repository and is not supposed to be handling complete, descriptive projects.
+- Catalog books with detailed information such as title, author, ISBN, subject and etc.
+- Manage book reservations and holds.
 
-### The below is only a reference to our security policies, we will probably update them when any three of our issues are fixed. Don't worry! That will definitely happen soon! To learn more about our security policy, please visit this link: https://github.com/pavans2011/prototype_projects/blob/main/SECURITY.md?plain=1
+### Member Management:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+- Register and manage library members such as personal information and contact details.
+- Track member borrowing history and fines.
 
-***
+### Inventory Management:
 
-## Our privacy policy: 
+- Track book locations within the library.
+- Conduct regular inventory checks and manage book losses and damages.
 
-### This section tells people about which versions of our project are currently being supported with security updates that would be updated alongside our terms and conditions, the chart below is a representation of what versions of our products are supported by our security policy.
-
-***
-
-
-### We are honoured and very enthusiastic about gathering collaborators and our start-up projects are being used and rewarded, which is the sole purpose of this GitHub repository... So please, it would be rewarding if many more of a generation of beta testers could join forces and promote our products!
-
-
-***
- 
-![](https://4kwallpapers.com/images/walls/thumbs_2t/11968.jpg)
-
-### Arios Amigos!
-### Powering off...
-
-***
-
+Frontend: Python (Both UI/UX).
+Backend: Python.
+Database: Relational database such as MySQL.
