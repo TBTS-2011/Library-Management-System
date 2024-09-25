@@ -1,8 +1,8 @@
 # About this project:
 
-This Library Management System is a software application designed to efficiently manage the operations of a library. It aims to streamline various library processes, including book cataloging, circulation, member management, and inventory control. By automating these tasks, this project enhances the overall efficiency and user experience within the library.
+The Library Management System represents a software application meticulously crafted to proficiently oversee the multifaceted operations of a library. Its primary objective is to refine various library processes, encompassing book cataloguing, circulation monitoring, member administration, and inventory management. Through the automation of these tasks, this initiative is poised to elevate the overall operational efficiency and user experience within the library environment.
 
-This project comes with a lot of customized modules. The necessary requirements for this project to work are fiven below need to be install for better a better user experience:
+This project comes with a lot of customized modules. The requirements for this project to work are given below need to be installed for a better user experience:
 
 - from tkinter import *
 - from tkinter import ttk
@@ -29,7 +29,7 @@ This project comes with a lot of customized modules. The necessary requirements 
 
 ### Book Management:
 
-- Catalog books with detailed information such as title, author, ISBN, subject and etc.
+- Catalog books with detailed information such as title, author, ISBN, subject etc.
 - Manage book reservations and holds.
 
 ### Member Management:
@@ -42,6 +42,14 @@ This project comes with a lot of customized modules. The necessary requirements 
 - Track book locations within the library.
 - Conduct regular inventory checks and manage book losses and damages.
 
-Frontend: Python (Both UI/UX).
-Backend: Python.
-Database: Relational database such as MySQL.
+  Frontend: Python (Both UI/UX).
+  Backend: Python.
+  Database: Relational database such as MySQL.
+
+### Contributing:
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+### License:
+
+This project is licensed under the MPL 2.0 Licence.
